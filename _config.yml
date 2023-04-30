@@ -1,0 +1,190 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Ankul Dass
+title: Masters of Financial Engineering Student
+email: ad852@cornell.edu
+#phone: +1(607)-262-0484
+# website: www.github.com/sproogen/resume-theme
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: facespics
+# github_username:  ad852
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: _a_n_k_u_l_
+linkedin_username: ankuldass
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+additional_links:
+- title: Pdf Download
+  icon: far fa-file-pdf
+  url: https://pages.github.coecis.cornell.edu/ad852/ad852.github.io/resources/Dass, Ankul.pdf
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/Pic.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Ankul and currently I'm a Financial Engineering Graduate student at Cornell University. I have worked for almost 2 years at J.P. Morgan as a part of Wholesale Credit Transformation team where we provided financial solutions and solved complex business problems using Machine Learning tools. I aim to learn and work more closely with securities, derivatives and equity indices.
+  
+  I am most skilled in: <mark>Python</mark>, <mark>Data Analytics</mark> and <mark>Eating Pizza</mark>.
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Binomial Option Pricing Model
+        # link_text: Project Website
+        
+        quote: >
+          This project was a part of Stochastic Calculus subject at Cornell University.
+        description: | # this will include new lines to allow paragraphs
+          - Developed a dynamic no-arbitrage N-period Binomial model to find the current price of call option, deltas & payoffs and analyzed its convergence with Black Scholes Model using <mark>NumPy</mark> and <mark>SciPy</mark>
+          
+          - Analyzed impacts on different Greeks of an option with varying strike prices, maturities, initial prices & market volatilities
+      
+      - layout: top-middle
+        title: Machine Learning
+        # link_text: Project Website
+        
+        quote: >
+          Below are the descriptions of different projects I did as part of Machine Learning subject at Cornell University.
+        description: | # this will include new lines to allow paragraphs
+          - Implemented image classification on low dimensional manifold using <mark>k-nn</mark> and <mark>perceptron</mark> for spam email filtering.
+          
+          - Developed non-linear binary classifiers from scratch using <mark>kernelized SVMs</mark> and <mark>CART</mark>
+          
+          - Performed image classification by developing CNNs and multi-layered perceptron model with help of <mark>PyTorch</mark>
+          
+      - layout: top-middle
+        title: Minimum Variance Portfolio Construction
+        # link_text: Project Website
+        
+        
+        description: | # this will include new lines to allow paragraphs
+          - Constructed minimum variance portfolio of 20 stock indices for 20-day holding periods using linear regression models.
+          
+          - Evaluated the performance of portfolio using different regularization methods like <mark>Ridge</mark>, <mark>Lasso</mark> and <mark>Elastic Net</mark>.
+    
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: J.P. Morgan Chase & Co.
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Analyst
+        caption: August 2020 - June 2022
+        quote: >
+          I was part Wholesale Credit Data Transformation team and sorry that has nothing to do with wholesale products.
+        description: | # this will include new lines to allow paragraphs
+            - Developed automated credit line-sizing algorithm to set ACH exposures for Commercial Banking Clients
+            
+            - Made the pre-existing pipeline more robust by increasing the frequency of checking of client usage by <mark>6 times</mark>
+            
+            - Product is currently <mark>deployed and live</mark>, having proven savings in the credit exposure given to clients, along with a reduced number of overdrafts; was the <mark>sole developer</mark> for product enhancements and maintenance since June 2021.
+            
+            - Developed a LightGBM model to identify clients which are more likely to default and alert them to Credit Officers
+            
+            - Performed feature engineering (new feature creation), categorical encoding, feature selection
+            
+            - Automated monthly KPI and KRI for monthly reporting of different credit products for Commercial Banking clients
+            
+            - Performed data cleaning & data validation for model development via pandas, NumPy, and sci-kit-learn libraries
+            
+            - Created probabilistic maximum likelihood bigram spell check algorithm to replace misspelled words from web extracted documents
+  
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Languages
+        description: <img align="middle" src="images/Languages.jpg" alt="hi" class="inline"/>
+      - layout: top-middle
+        title: Libraries
+        description: <img align="middle" src="images/Libraries.jpg" alt="hi" class="inline"/>  
+      - layout: top-middle
+        title: Frameworks
+        description: <img align="middle" src="images/Frameworks.jpg" alt="hi" class="inline"/>
+      
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Cornell University
+        caption: 2022 - 2023
+        sub_title: MEng with concentration in Financial Engineering
+        quote: >
+          Cornell University is a prestigious Ivy League research institution located in Ithaca, New York. It offers a diverse range of undergraduate, graduate, and professional degree programs across multiple fields of study.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Cornell I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. 
+          
+          <mark>GPA:</mark> 4
+    
+    #layout: list # Type of content section (list/text)
+    #content:
+      - layout: left
+        title: BITS Pilani, Goa
+        caption: 2016 - 2020
+        sub_title: B.E. of Electrical and Electronics
+        quote: >
+          BITS Pilani Goa offers undergraduate and postgraduate degree programs in engineering, science, and management, and is renowned for its high-quality education and research facilities.
+        description: | # this will include new lines to allow paragraphs
+          During my time at BITS Pilani Goa, I was part of Department of Photography. I learned practical skills as well as had some of the best days of my academic at BITS. life 
+          
+          <mark>GPA:</mark> 8.56 / 10
+          
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests and passion in financial markets and data anlytics some of my other interests and hobbies are:
+      - Soccer
+      - Health and Fitness
+      - Anime
+      - Manga
+
+      Look at this cool image of my idol: 
+      
+      <img align="right" src="images/Ronaldo.jpg" alt="hi" class="inline"/>
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
