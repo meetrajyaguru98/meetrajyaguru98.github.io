@@ -87,9 +87,39 @@ content:
             As part of my work on MOC projects, I have also gained experience in facilitating Risk Assessments, participating in Process Hazards Analysis (PHA) and Pre-Startup Safety Reviews (PSSRs). These activities are essential for identifying potential hazards and mitigating risks associated with MOC projects, and I am adept at guiding cross-functional teams through these processes to ensure that all risks are identified and addressed.
 
             Finally, I played a key role in helping to complete an audit of over 200 car seals, which was critical to ensuring that overpressure protection was maintained on site. This experience gave me valuable insights into the importance of attention to detail and the need to maintain high levels of safety and compliance in all aspects of plant operations.
+      - layout: left
+        title: University of Calgary
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Teaching Assistant
+        caption: January 2022 - May 2022
+        quote: >
+          Driven by a passion for education and a commitment to excellence, I bring extensive experience and expertise to my role as an academic professional, empowering the next generation of engineers to achieve their full potential.
+        description: | # this will include new lines to allow paragraphs
+        As an academic professional with a strong commitment to excellence in education, I have played a key role in supporting the development of course plans for Engineering Statics at the university level. Drawing on my extensive experience and knowledge of the subject matter, I have provided invaluable guidance and mentorship to students seeking to enhance their understanding of key concepts and solve complex problems.
 
-  
-  - title: Skills # Title for the section
+        In addition to my teaching responsibilities, I have also conducted laboratory research, developed and led engaging discussion sessions, and evaluated exam papers to ensure that students receive the highest quality education and are well-prepared for future academic and professional endeavors. I take pride in my ability to inspire students to achieve their full potential and my dedication to fostering an inclusive and collaborative learning environment.
+
+        Overall, my passion for teaching and my deep commitment to excellence in education make me a highly qualified and dedicated academic professional, ready to make a positive impact on the future generation of engineers."
+      
+      - layout: left
+        title: Indian Oil Corporation Limited – Vadodara, India
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Intern
+        caption: June 2019 - August 2019
+        quote: >
+          I bring hands-on expertise, technical knowledge, and a deep commitment to safety to my work in the Oil and Gas industry, empowering teams to maintain optimal process parameters and promoting a safe and secure work environment.
+        description: | # this will include new lines to allow paragraphs
+        As a Chemical Engineering Professional with hands-on experience in the Oil and Gas industry, I have had the opportunity to work closely with a range of critical systems and units, including the Atmospheric Distillation Unit, Hydro Cracker Unit, Fluidized Catalytic Cracking Unit, Effluent Treatment Plant, and more. My extensive experience with distributed control panels and my deep understanding of P&IDs and PFDs have enabled me to support the on-field team in maintaining optimal process parameters and ensuring that all systems are operating at peak efficiency.
+
+        In addition to my technical expertise, I am also deeply committed to safety and have taken an active role in attending health and safety workshops and participating in monthly safety meetings. I understand the critical importance of maintaining a safe and secure work environment and take pride in doing my part to promote best practices and ensure the safety of all personnel.
+
+        Most recently, I had the opportunity to assist Fire and Safety personnel in a table-top drill focused on safety practices in the refinery. Through this experience, I gained a deeper understanding of the importance of effective safety protocols and the critical role that every member of the team plays in ensuring a safe and secure work environment.
+
+        Overall, my extensive experience, technical expertise, and deep commitment to safety make me a highly qualified and dedicated Chemical Engineering Professional, ready to make a positive impact in the Oil and Gas industry."
+
+- title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
