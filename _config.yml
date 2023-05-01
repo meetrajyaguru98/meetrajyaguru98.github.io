@@ -6,9 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Ankul Dass
+name: Meet Rajyaguru
 title: Masters of Financial Engineering Student
-email: ad852@cornell.edu
+email: meetjognesh..rajyagur@ucalgary.ca
 #phone: +1(607)-262-0484
 # website: www.github.com/sproogen/resume-theme
 
@@ -22,8 +22,8 @@ darkmode: false
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: _a_n_k_u_l_
-linkedin_username: ankuldass
+instagram_username: __m_e.e_t__
+linkedin_username: meet-rajyaguru-b6666117a
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/Pic.jpg
+about_profile_image: images/Meet picture.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ankul and currently I'm a Financial Engineering Graduate student at Cornell University. I have worked for almost 2 years at J.P. Morgan as a part of Wholesale Credit Transformation team where we provided financial solutions and solved complex business problems using Machine Learning tools. I aim to learn and work more closely with securities, derivatives and equity indices.
   
