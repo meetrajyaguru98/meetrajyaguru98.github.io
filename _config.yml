@@ -58,7 +58,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: 
+        title: Key Strengths and Expertise
         # link_text: Project Website
         
         quote: >
