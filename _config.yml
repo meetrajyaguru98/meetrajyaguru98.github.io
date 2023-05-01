@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Meet Rajyaguru
-title: Masters of Financial Engineering Student
+title: MEng, E.I.T.
 email: meetjognesh.rajyagur@ucalgary.ca
 #phone: +1(607)-262-0484
 # website: www.github.com/sproogen/resume-theme
@@ -41,7 +41,7 @@ linkedin_username: meet-rajyaguru-b6666117a
 additional_links:
 - title: Pdf Download
   icon: far fa-file-pdf
-  url: https://github.com/meetrajyaguru98/meetrajyaguru98.github.io/resources/Meet.CV.pdf
+  url: https://github.com/meetrajyaguru98/meetrajyaguru98.github.io/blob/main/resources/Meet.CV.pdf
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
@@ -57,70 +57,40 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Python</mark>, <mark>Data Analytics</mark> and <mark>Eating Pizza</mark>.
 
 content:
-  - title: Projects # Title for the section
+  - title: HIGHLIGHTS OF QUALIFICATIONS # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Binomial Option Pricing Model
+      #- layout: top-middle
+      #  title: Binomial Option Pricing Model
         # link_text: Project Website
         
         quote: >
-          This project was a part of Stochastic Calculus subject at Cornell University.
+          My unique blend of theoretical knowledge and practical expertise, combined with my commitment to professionalism and ethical conduct, allows me to provide effective solutions to complex engineering challenges in the Oil and Gas sector.
         description: | # this will include new lines to allow paragraphs
-          - Developed a dynamic no-arbitrage N-period Binomial model to find the current price of call option, deltas & payoffs and analyzed its convergence with Black Scholes Model using <mark>NumPy</mark> and <mark>SciPy</mark>
-          
-          - Analyzed impacts on different Greeks of an option with varying strike prices, maturities, initial prices & market volatilities
+          As a Chemical Engineering Professional with experience in the Canadian Oil and Gas sector and a Master's degree from the University of Calgary, I bring a unique blend of theoretical knowledge and practical expertise to the table. With a strong foundation in plant troubleshooting and a track record of supporting successful Management of Change (MOC) initiatives, I am well-versed in the use of industrial simulation software, including IBM Maximo, Autodesk Navisworks, Bluebeam Revu, Aspen HYSYS, and MS Office. In addition, my prior work experience at Indian Oil Corporation Limited (IOCL) Refinery has given me valuable insights into engineering environments, further enhancing my skillset. As a registered Engineer-In-Training (EIT) with APEGA, I am committed to upholding the highest standards of professionalism and ethical conduct in all aspects of my work.
       
-      - layout: top-middle
-        title: Machine Learning
-        # link_text: Project Website
-        
-        quote: >
-          Below are the descriptions of different projects I did as part of Machine Learning subject at Cornell University.
-        description: | # this will include new lines to allow paragraphs
-          - Implemented image classification on low dimensional manifold using <mark>k-nn</mark> and <mark>perceptron</mark> for spam email filtering.
-          
-          - Developed non-linear binary classifiers from scratch using <mark>kernelized SVMs</mark> and <mark>CART</mark>
-          
-          - Performed image classification by developing CNNs and multi-layered perceptron model with help of <mark>PyTorch</mark>
-          
-      - layout: top-middle
-        title: Minimum Variance Portfolio Construction
-        # link_text: Project Website
-        
-        
-        description: | # this will include new lines to allow paragraphs
-          - Constructed minimum variance portfolio of 20 stock indices for 20-day holding periods using linear regression models.
-          
-          - Evaluated the performance of portfolio using different regularization methods like <mark>Ridge</mark>, <mark>Lasso</mark> and <mark>Elastic Net</mark>.
-    
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: J.P. Morgan Chase & Co.
+        title: Strathcona Resources Ltd.
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Analyst
-        caption: August 2020 - June 2022
+        sub_title: On-Site Facilities Engineering Intern
+        caption: September 2022 - Present
         quote: >
-          I was part Wholesale Credit Data Transformation team and sorry that has nothing to do with wholesale products.
+          Coupling technical expertise with project management skills and a safety-focused mindset, I strive to deliver high-quality work that meets stakeholder needs and exceeds expectations.
         description: | # this will include new lines to allow paragraphs
-            - Developed automated credit line-sizing algorithm to set ACH exposures for Commercial Banking Clients
-            
-            - Made the pre-existing pipeline more robust by increasing the frequency of checking of client usage by <mark>6 times</mark>
-            
-            - Product is currently <mark>deployed and live</mark>, having proven savings in the credit exposure given to clients, along with a reduced number of overdrafts; was the <mark>sole developer</mark> for product enhancements and maintenance since June 2021.
-            
-            - Developed a LightGBM model to identify clients which are more likely to default and alert them to Credit Officers
-            
-            - Performed feature engineering (new feature creation), categorical encoding, feature selection
-            
-            - Automated monthly KPI and KRI for monthly reporting of different credit products for Commercial Banking clients
-            
-            - Performed data cleaning & data validation for model development via pandas, NumPy, and sci-kit-learn libraries
-            
-            - Created probabilistic maximum likelihood bigram spell check algorithm to replace misspelled words from web extracted documents
+            As an accomplished Chemical Engineering Professional, I have extensive experience in preparing Engineering Work Packages and Construction Work Packages that span a wide range of scopes, from small replace-in-kind projects to large-scale Management of Change (MOC) initiatives that involve multiple departments and stakeholders. I have a keen eye for detail and excel at scoping projects, completing walk-downs, and managing the close-out process to ensure that all deliverables are completed on time and to the highest standards.
+
+            One of my key strengths is my proficiency in P&ID redlining and mark-ups, as well as my ability to develop Engineering Drawings and Datasheets that accurately capture the technical requirements of a project. I have a deep understanding of the intricacies involved in these processes and can work effectively with cross-functional teams to ensure that all aspects of a project are thoroughly considered and accounted for.
+
+            In addition to my technical expertise, I am skilled at facilitating touch-base meetings with Engineering, Operations, and Maintenance teams to discuss the status and progress of ongoing projects. These meetings are essential for keeping all stakeholders informed and engaged in the project, which is critical to ensuring successful project outcomes.
+
+            As part of my work on MOC projects, I have also gained experience in facilitating Risk Assessments, participating in Process Hazards Analysis (PHA) and Pre-Startup Safety Reviews (PSSRs). These activities are essential for identifying potential hazards and mitigating risks associated with MOC projects, and I am adept at guiding cross-functional teams through these processes to ensure that all risks are identified and addressed.
+
+            Finally, I played a key role in helping to complete an audit of over 200 car seals, which was critical to ensuring that overpressure protection was maintained on site. This experience gave me valuable insights into the importance of attention to detail and the need to maintain high levels of safety and compliance in all aspects of plant operations.
+
   
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
