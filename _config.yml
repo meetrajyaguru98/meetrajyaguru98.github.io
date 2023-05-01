@@ -52,16 +52,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Meet picture.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ankul and currently I'm a Financial Engineering Graduate student at Cornell University. I have worked for almost 2 years at J.P. Morgan as a part of Wholesale Credit Transformation team where we provided financial solutions and solved complex business problems using Machine Learning tools. I aim to learn and work more closely with securities, derivatives and equity indices.
-  
-  I am most skilled in: <mark>Python</mark>, <mark>Data Analytics</mark> and <mark>Eating Pizza</mark>.
-
+  Hello, my name is Meet Rajyaguru and I am a highly motivated Chemical Engineering Professional with extensive hands-on knowledge of high-end industrial simulation software such as Aspen Plus, HYSYS, and Bluebeam RevU. I am a registered Engineer-in-Training (EIT) with the Association of Professional Engineers and Geoscientists of Alberta (APEGA) and currently working with the Facilities Engineering team at Strathcona Resources’ Tucker Thermal Facility. With a passion for learning and a deep commitment to my profession, I am dedicated to expanding my expertise and knowledge in the Canadian Oil and Gas industry, specifically as a Facilities Engineer. I am eager to work closely with industry professionals and apply my skills to tackle the most challenging engineering projects and contribute to the continued success of the industry.
 content:
   - title: HIGHLIGHTS OF QUALIFICATIONS # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      #- layout: top-middle
-      #  title: Binomial Option Pricing Model
+      - layout: top-middle
+        title: 
         # link_text: Project Website
         
         quote: >
